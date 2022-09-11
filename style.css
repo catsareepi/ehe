@@ -1,0 +1,30 @@
+.heading {
+  width:100%;
+  margin-bottom: 30px;
+}
+
+.heading button {
+  float:right;
+}
+
+.playbutton {
+  font-size:20px;
+  width:20%;
+  margin-bottom: 50px;
+}
+
+#status {
+  font-size:15px;
+  margin-top:0;
+  margin-bottom:20px;
+}
+
+h4 {
+  background-color: black;
+  line-height:2;
+  margin:0px;
+}
+
+.modal-dialog {
+  width:90%;
+}
